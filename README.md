@@ -13,4 +13,4 @@
 8. Код работает только для браузера Сhrome.
 9. Для визуального контроля в код с тестом добавлена команда time.sleep(30)
 10. По умолчанию установлен язык браузера  - ru .
-11. Отсутствие кнопки на тестируемой странице AssertionError: "Add to basket" button is not displayed on the page.
+11. В случае отсутствия кнопки на странице assert выбрасывает AssertionError: "Add to basket" button is not displayed on the page.
