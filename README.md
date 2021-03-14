@@ -3,6 +3,6 @@
 
 1. Для запуска автотеста необходимо установить библиотеку pytest-selenium
 2. Запуск автотестов производится из консоли командами:
-    pytest --language=es test_items.py
+    <p pytest --language=es test_items.py /<p
     pytest --language=fr test_items.py
 3. По умолчанию установлен язык браузера  - ru
